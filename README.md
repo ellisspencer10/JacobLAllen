@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Estacisity</h1>
 <h3 align="center">A python and web developer in training.</h3>
 
-- 🔭 I’m currently working on [Cognito Hosting & VPN](cognitohosting.org)
+- 🔭 I’m currently working on [Cognito Hosting & VPN](https://cognitohosting.org)
 
 - 🌱 I’m currently learning **Python & CSS**
 
-- 👨‍💻 All of my projects are available at [estacisity.xyz](estacisity.xyz)
+- 👨‍💻 All of my projects are available at [estacisity.xyz](https://estacisity.xyz)
 
 - Contact me on discord @ **Estacisity#9111**
 
