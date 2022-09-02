@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Estacisity</h1>
+<h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A python and web developer in training.</h3>
 
 - 🔭 I’m currently working on [Cognito Hosting & VPN](https://cognitohosting.org)
