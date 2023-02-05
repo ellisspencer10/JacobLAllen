@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on [Cognito Hosting & VPN](https://cognitohosting.org)
 
-- 🌱 I’m currently learning **Python & CSS**
+- 🌱 I’m currently learning **Python, html & CSS**
 
-- 👨‍💻 All of my projects are available at [estacisity.xyz](https://estacisity.xyz)
 
 - Contact me on discord @ **Estacisity#9111**
 
