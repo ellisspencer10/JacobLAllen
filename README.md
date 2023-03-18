@@ -7,6 +7,7 @@
 
 
 - Contact me on discord @ **Estacisity#9111**
+- Contact me on email @ **jacob@cognitohosting.org**
 
 <p align="left">
 </p>
