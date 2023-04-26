@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cognito Hosting & VPN](https://cognitohosting.org)
 
-- 🌱 I’m currently learning **Python, html & CSS**
+- 🌱 I’m currently learning **Python, html & CSS IM gay**
 
 
 - Contact me on discord @ **Estacisity#9111**
